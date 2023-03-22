@@ -1,10 +1,10 @@
-# [Unrated] 로프 - 2217 
+# [Silver IV] 로프 - 2217 
 
 [문제 링크](https://www.acmicpc.net/problem/2217) 
 
 ### 성능 요약
 
-메모리: 35500 KB, 시간: 4004 ms
+메모리: 35500 KB, 시간: 3704 ms
 
 ### 분류
 
