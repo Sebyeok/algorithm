@@ -17,6 +17,7 @@ def solution(numbers, target):
             answer+=1
     return answer
 
+import math
 def solution2(numbers, target):
     answer = 0
     queue = deque([numbers[0],-numbers[0]])
